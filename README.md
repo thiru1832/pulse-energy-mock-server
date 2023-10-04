@@ -1,5 +1,5 @@
 # pulse-energy-mock-server
-mock server to shoot the requests from csv
+mock server to shoot the requests from csv file
 
 Follow the process below to run the code:
 1. Git clone the repository using command in command terminal- git clone https://github.com/thiru1832/pulse-energy-mock-server.git
